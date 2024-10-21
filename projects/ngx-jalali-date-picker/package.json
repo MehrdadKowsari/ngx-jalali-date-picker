@@ -1,0 +1,27 @@
+{
+  "name": "ngx-jalali-date-picker",
+  "version": "1.0.1",
+  "author": "Mehrdad Kowsari",
+  
+  "keywords": [
+    "angular16",
+    "date",
+    "datepicker",
+    "date-picker",
+    "ngx-jalali-datepicker",
+    "ng2-jalali-datepicker",
+    "ng2-datepicker",
+    "ng-datepicker",
+    "angular",
+    "picker",
+    "angular-datepicker"
+  ],
+  "peerDependencies": {
+    "@angular/common": "^16.2.12",
+    "@angular/core": "^16.2.12",
+    "jalali-moment": "^3.3.11"
+  },
+  "dependencies": {
+    "tslib": "^2.3.0"
+  }
+}

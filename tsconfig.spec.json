@@ -1,0 +1,29 @@
+{
+  "compilerOptions": {
+    "sourceMap": true,
+    "declaration": false,
+    "moduleResolution": "node",
+    "experimentalDecorators": true,
+    "allowSyntheticDefaultImports": true,
+    "lib": [
+      "es2016",
+      "dom"
+    ],
+    "outDir": "./out-tsc/spec",
+    "module": "es2020",
+    "target": "ES2022",
+    "baseUrl": "tsconfig.spec",
+    "types": [
+      "jasmine",
+      "node"
+    ],
+    "useDefineForClassFields": false
+  },
+  "files": [
+    "src/test.ts",
+    "src/polyfills.ts"
+  ],
+  "include": [
+    "**/*.spec.ts"
+  ]
+}
