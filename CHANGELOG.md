@@ -9,4 +9,7 @@ All notable changes to this project will be documented in this file.
 ### Bug fixes
 - Add some condition for Moment date validation
 
+# [1.0.3] (2021-10-21)
 
+### Improvements
+- Add Github repository link to package.json

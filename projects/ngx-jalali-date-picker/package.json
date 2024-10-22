@@ -1,8 +1,11 @@
 {
   "name": "ngx-jalali-date-picker",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "author": "Mehrdad Kowsari",
-  
+  "repository": {
+  "type": "git",
+  "url": "https://github.com/mehrdadKowsari/ngx-jalali-date-picker.git"
+},
   "keywords": [
     "angular16",
     "date",
