@@ -1,6 +1,6 @@
 # Date Picker  
 This is a configurable date-picker build for Angular applications.  
-Supports latest (Angular 17) version. This date-picker is based on
+Supports latest (Angular 18) version. This date-picker is based on
 ng2-date-piker and ngx-jalali-date-picker date pickers.
 
  
