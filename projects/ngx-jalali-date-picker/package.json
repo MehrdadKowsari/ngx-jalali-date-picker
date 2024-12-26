@@ -1,6 +1,6 @@
 {
   "name": "ngx-jalali-date-picker",
-  "version": "1.0.4",
+  "version": "2.0.0",
   "author": "Mehrdad Kowsari",
   "repository": {
   "type": "git",
@@ -20,11 +20,11 @@
     "angular-datepicker"
   ],
   "peerDependencies": {
-    "@angular/common": "^16.2.12",
-    "@angular/core": "^16.2.12",
-    "jalali-moment": "^3.3.11"
-  },
-  "dependencies": {
-    "tslib": "^2.6.0"
-  }
+  "@angular/common": "^17.3.11",
+  "@angular/core": "^17.3.11",
+  "jalali-moment": "^3.3.11"
+},
+"dependencies": {
+  "tslib": "^2.6.2"
+}
 }
